@@ -60,3 +60,5 @@ Commit History:
 8. 16.12.23  Project Presentation Preparation
    - Added final comments to the code.
    - https://www.canva.com/design/DAF3IlnUxMU/z9_Usqz0Lpv9O41GYfEJmw/edit?utm_content=DAF3IlnUxMU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  ##Video instruction
+   https://drive.google.com/file/d/12By2ABNeiOerLqUihag3rNgx47mX3mHL/view?usp=sharing
